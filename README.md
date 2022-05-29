@@ -1,5 +1,5 @@
 # curve-secp256k1
-Mysterious Number of Bitcoin Cryptography
+Mysterious Numbers of Bitcoin Cryptography
 
 If you know about Elliptic curves and cryptography , this project will be mysterious for you:
 
