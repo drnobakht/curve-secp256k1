@@ -11,7 +11,7 @@ There is two individual numbers when multipleis to any point on curve-secp256k1 
 
 consider K is a point on curve , there is two fixed numbers as N1 and N2 ,
 
-if: "K*N1=C1 and K*N2=C2" , then : y(K) = y(C1) = y(C2)
+if: K\*N1=C1 and K*N2=C2 , then : y(K) = y(C1) = y(C2)
 
 N1:  37718080363155996902926221483475020450927657555482586988616620542887997980018
 
